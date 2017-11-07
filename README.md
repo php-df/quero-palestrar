@@ -8,18 +8,6 @@
 </p>
 
 ---
-<p align="center">
-    <strong>Clique para Consultar</strong>
-</p>
-<p align="center">
-<a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/Palestrante" style="background-color: #d93f0b; color: #fff; ">&nbsp;Palestrante&nbsp;</a>&nbsp;
-<a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/Palestra" style="background-color: #b60205; color: #fff; ">&nbsp;Palestra&nbsp;</a>&nbsp;
-  <a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/%5BAvan%C3%A7ado%5D" style="background-color: #1F4E79; color: #fff; ">&nbsp;[Avançado]&nbsp;</a>&nbsp;
-  <a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/%5BIniciante%5D" style="background-color: #DEEBF7; color: #2d3033; ">&nbsp;[Iniciante]&nbsp;</a>&nbsp;
-  <a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/%5BIntermedi%C3%A1rio%5D" style="background-color: #1d76db; color: #fff; ">&nbsp;[Intermediário]&nbsp;</a>
-</p>
-
----
 
 ## Motivação
 
