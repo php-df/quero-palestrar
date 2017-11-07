@@ -61,3 +61,8 @@ O GitHub possui diversas características que o torna uma excelente opção para
 * facilidade de busca (internamente ou através de mecanismos de busca)
 * transparente
 * promove a interação
+
+
+
+### Projeto baseado em
+https://github.com/phpsp/quero-palestrar
