@@ -9,12 +9,6 @@
 
 ---
 
-## Motivação
-
-O mundo de desenvolvimento de software tem presenciado um enorme crescimento no número de eventos e de **pessoas interessadas em palestrar**. Contudo, os organizadores de eventos continuam se deparando com dificuldades para encontrar palestrantes.
-
-A ideia desse projeto é ser um repositório de **propostas de palestras** que permita que *pessoas interessadas em palestrar* cadastrem suas propostas e que *organizadores do PHPDF* encontrem mais facilmente potenciais palestrantes.
-
 ## Como funciona?
 
 O processo de cadastramento é simples e prático. Basta realizar o *cadastro do palestrante* e, em seguida, o *cadastro da proposta de palestra*.
