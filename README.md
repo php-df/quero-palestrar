@@ -1,10 +1,10 @@
 <h1 align="center">Quero Palestrar!</h1>
 <p align="center">
-    Repositório de <i>palestrantes</i> e <i>propostas de palestras</i> para eventos de tecnologia.
+    Repositório de <i>palestrantes</i> e <i>propostas de palestras</i> para eventos do PHPDF.
 </p>
 <p align="center">
-  <a href="https://github.com/PHPSP/quero-palestrar/issues/new?template=speaker_template.md"><img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues/new"><img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" /></a>
+  <a href="https://github.com/php-df/quero-palestrar/issues/new?template=speaker_template.md"><img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" /></a>&nbsp;
+  <a href="https://github.com/php-df/quero-palestrar/issues/new"><img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" /></a>
 </p>
 
 ---
@@ -12,13 +12,11 @@
     <strong>Clique para Consultar</strong>
 </p>
 <p align="center">
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%2APalestrante"><img src="https://user-images.githubusercontent.com/753958/31695466-91656c12-b389-11e7-8db4-4ea4d6e5be90.png" alt="Listar Palestrantes" width="82" height="18" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%2APalestra"><img src="https://user-images.githubusercontent.com/753958/31695580-4526cd86-b38a-11e7-9d10-3abae8e53b5d.png" alt="Listar Palestras" width="63" height="18" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%5BIniciante%5D"><img src="https://user-images.githubusercontent.com/753958/31695715-0c512686-b38b-11e7-953a-2adcc9b29dc0.png" alt="Listar Palestras Iniciantes" width="68" height="18" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%5BIntermedi%C3%A1ria%5D"><img src="https://user-images.githubusercontent.com/753958/31695746-37eb015e-b38b-11e7-8aa1-593334898eea.png" alt="Listar Palestras Intermediárias" width="96" height="18" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript"><img src="https://user-images.githubusercontent.com/753958/31695796-73685dd0-b38b-11e7-8a67-2c05d68a7abc.png" alt="Listar Palestras de JavaScript" width="71" height="18" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3APHP"><img src="https://user-images.githubusercontent.com/753958/31695830-a06c992c-b38b-11e7-8765-6c260cdebb71.png" alt="Listar Palestras de PHP" width="33" height="18" /></a>&nbsp;
-  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%22%40S%C3%A3o+Paulo+-+SP%22"><img src="https://user-images.githubusercontent.com/753958/31695863-c30f67b6-b38b-11e7-936d-70f72190a40b.png" alt="Listar Palestrantes de São Paulo - SP" width="105" height="18" /></a>&nbsp;
+<a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/Palestrante" style="background-color: #d93f0b; color: #fff; ">&nbsp;Palestrante&nbsp;</a>&nbsp;
+<a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/Palestra" style="background-color: #b60205; color: #fff; ">&nbsp;Palestra&nbsp;</a>&nbsp;
+  <a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/%5BAvan%C3%A7ado%5D" style="background-color: #1F4E79; color: #fff; ">&nbsp;[Avançado]&nbsp;</a>&nbsp;
+  <a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/%5BIniciante%5D" style="background-color: #DEEBF7; color: #2d3033; ">&nbsp;[Iniciante]&nbsp;</a>&nbsp;
+  <a class="label label-link" href="https://github.com/php-df/quero-palestrar/labels/%5BIntermedi%C3%A1rio%5D" style="background-color: #1d76db; color: #fff; ">&nbsp;[Intermediário]&nbsp;</a>
 </p>
 
 ---
@@ -35,7 +33,7 @@ O processo de cadastramento é simples e prático. Basta realizar o *cadastro do
 
 ### 1. Cadastro do palestrante
 
-Crie uma *issue* para cadastrar o palestrante clicando em [**cadastrar palestrante**](https://github.com/PHPSP/quero-palestrar/issues/new?template=speaker_template.md). Como ***título da issue*** utilize o *nome completo* do palestrante. No ***corpo da issue*** adicione o *nome completo*, *e-mail*, *cidade*, *site ou blog*, *redes sociais*, *imagem* e *mini-bio* do palestrante. Veja o exemplo:
+Crie uma *issue* para cadastrar o palestrante clicando em [**cadastrar palestrante**](https://github.com/php-df/quero-palestrar/issues/new?template=speaker_template.md). Como ***título da issue*** utilize o *nome completo* do palestrante. No ***corpo da issue*** adicione o *nome completo*, *e-mail*, *cidade*, *site ou blog*, *redes sociais*, *imagem* e *mini-bio* do palestrante. Veja o exemplo:
 
 Nome: **Gabriel Rodrigues Couto**  
 E-mail: gabriel@r3c.com.br  
@@ -52,7 +50,7 @@ Após finalizar o cadastro do palestrante, lembre-se de guardar o *número da is
 
 ### 2. Cadastro da proposta de palestra
 
-Crie uma *issue* para cadastrar a proposta clicando em [**cadastrar proposta de palestra**](https://github.com/PHPSP/quero-palestrar/issues/new). Como ***título da issue*** utilize o *título* da palestra. No ***corpo da issue*** adicione o *título* da palestra, as *palavras-chaves* relacionadas ao assunto da palestra, o *nível*, o *nome do palestrante* informando o número da issue do cadastro do palestrante, uma *descrição* que deixe claro o que será abordado e links para *slides*, *vídeo* e *repositório no GitHub*, esses últimos opcionais. Veja o exemplo:
+Crie uma *issue* para cadastrar a proposta clicando em [**cadastrar proposta de palestra**](https://github.com/php-df/quero-palestrar/issues/new). Como ***título da issue*** utilize o *título* da palestra. No ***corpo da issue*** adicione o *título* da palestra, as *palavras-chaves* relacionadas ao assunto da palestra, o *nível*, o *nome do palestrante* informando o número da issue do cadastro do palestrante, uma *descrição* que deixe claro o que será abordado e links para *slides*, *vídeo* e *repositório no GitHub*, esses últimos opcionais. Veja o exemplo:
 
 Título: **Como Programar Melhor Jogando Game Boy**  
 Palavras-chaves: `php`, `internals`, `performance`  
